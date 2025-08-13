@@ -50,4 +50,4 @@ The dashboard provides a clear, dynamic way to explore trends, compare teams, an
 
 ## 👨‍💻 Author
 **Saksham Naresh Nandanwar**  
-
+Screen-shot- https://github.com/Sakshamnandanwar/PowerBI_Project/blob/main/IPL%20Dashboard.png
